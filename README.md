@@ -9,7 +9,7 @@ Coding Standards for TNT home page and interior pages.
 		<figure><img src="assets/images/section-img.jpg" /></figure>
 		<article>
 			<h2>H2 Heading</h2>
-      <span class="h2">Sub titles</span>
+      			<span class="h2">Sub titles</span>
 			<p>Content</p>
 			<p><a href="" class="btn">Button</a></p>
 		</article>
