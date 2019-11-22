@@ -16,7 +16,6 @@ Coding Standards for TNT home page and interior pages.
 	</div>
 </div>
 ```
-
 ### Home Page Body
 | ID or Class | Description                    |
 | ------------- | ------------------------------ |
@@ -46,4 +45,11 @@ Coding Standards for TNT home page and interior pages.
 | `#next` | Next arrow |
 | `.pager` | Pagers |
 
+### Text Styles
+| ID or Class | Description                    |
+| ------------- | ------------------------------ |
+| `.h1` | Styling to look like H1s, inside can use small tag |
+| `.h2` | Styling to look like H2s |
+| `.h3` | Styling to look like H3s |
+| `.h4` | Styling for fourth text style  |
 
