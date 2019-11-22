@@ -1,7 +1,7 @@
 # TNT Pages Standards
 Coding Standards for TNT home page and interior pages.
 
-### HOMEPAGE SECTION HTML
+### Home Section HTML
 
 ```html
 <div id="section-id">
