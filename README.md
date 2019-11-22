@@ -1,5 +1,5 @@
-# TNT Template Standards
-Coding Standards for TNT Templates
+# TNT Pages Standards
+Coding Standards for TNT home page and interior pages.
 
 ### HOMEPAGE SECTION HTML
 
